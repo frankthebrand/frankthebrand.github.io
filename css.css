@@ -1,0 +1,20 @@
+#parent {
+    padding: 5% 0;
+}
+#child {
+    padding: 10% 0;
+    text-align: center;
+    color: #A6D785;
+}
+a {
+	color: #A6D785;
+}
+.imgcontainer {
+   display: grid;
+   height: 100%;
+}
+.hi {
+   max-width: 100%;
+   max-height: 100vh;
+   margin: auto;
+}
